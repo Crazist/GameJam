@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/_Scripts/Player/Player.cs.meta
+guid: eaffc04b2f2a00741a404318a657d019
+=======
+guid: 1c568cd324171c24f9e06b57b5f32adf
+>>>>>>> 230417edbe2b48017283eb78d820a8d9dfaf409b:Assets/_Scripts/Counter.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
